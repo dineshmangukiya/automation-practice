@@ -1,0 +1,96 @@
+2021-03-17 17:03:994 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:07 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:665 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:69 INFO  ContactUsPage :49 - Entering Email Addresspeter12@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:387 INFO  ContactUsPage :56 - Entering Order Reference52487452On order Reference Field[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:673 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:578 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:631 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (e148e849ab0c1463c94f748a31686ee1)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:259 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:741 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:291 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:652 INFO  ContactUsPage :49 - Entering Email Addressjack100@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:978 INFO  ContactUsPage :56 - Entering Order Reference87451254On order Reference Field[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:262 INFO  ContactUsPage :62 - Entering Message Hiin message Field[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:558 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:608 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (3220e047abcc7cae3baaf38f52aa6997)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:647 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:60 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:597 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:61 INFO  ContactUsPage :49 - Entering Email Addresspeter12@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:320 INFO  ContactUsPage :56 - Entering Order Reference52487452On order Reference Field[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:584 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:864 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:924 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (0ef6f14ce0a539a26ffbd5ff1258438f)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:110 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:51 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:582 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:958 INFO  ContactUsPage :49 - Entering Email Addressjack100@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:274 INFO  ContactUsPage :56 - Entering Order Reference87451254On order Reference Field[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:529 INFO  ContactUsPage :62 - Entering Message Hiin message Field[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:803 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:849 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (62f3d13c02354c2c14d6a5b14e1664cb)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:12 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:218 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:889 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:420 INFO  ContactUsPage :49 - Entering Email Addresspeter12@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:839 INFO  ContactUsPage :56 - Entering Order Reference52487452On order Reference Field[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:174 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:337 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:393 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (07ffabc34d4d6f1089f4a579fd90ece0)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:678 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:510 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:872 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:137 INFO  ContactUsPage :49 - Entering Email Addressjack100@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:462 INFO  ContactUsPage :56 - Entering Order Reference87451254On order Reference Field[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:666 INFO  ContactUsPage :62 - Entering Message Hiin message Field[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:962 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:11 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (841838eb3a841145a11ebe5fda0480c7)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:732 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:467 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:124 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:562 INFO  ContactUsPage :49 - Entering Email Addresspeter12@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:07 INFO  ContactUsPage :56 - Entering Order Reference52487452On order Reference Field[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:332 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:615 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:666 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (0a8de0c9030272eccfd398cd794fd2cf)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:796 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:880 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:289 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:616 INFO  ContactUsPage :49 - Entering Email Addressjack100@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:929 INFO  ContactUsPage :56 - Entering Order Reference87451254On order Reference Field[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:214 INFO  ContactUsPage :62 - Entering Message Hiin message Field[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:424 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:470 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (7f5b6d9256eb6349d275d2d6ba5fc2be)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:435 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:147 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:725 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:120 INFO  ContactUsPage :49 - Entering Email Addressharrypatel@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:481 INFO  ContactUsPage :56 - Entering Order Reference78547854On order Reference Field[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:790 INFO  ContactUsPage :62 - Entering Message Hello Therein message Field[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:216 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:271 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (0ae73e1375b1724debeae9e296df2643)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:376 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:960 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:458 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:816 INFO  ContactUsPage :49 - Entering Email Addressdkkattapa@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:169 INFO  ContactUsPage :56 - Entering Order Reference234509876On order Reference Field[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:422 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:878 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:929 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (e64d7295a54dba1529ac7d3dcf3f3cea)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:316 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:512 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:125 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:466 INFO  ContactUsPage :49 - Entering Email Addressharrypatel@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:821 INFO  ContactUsPage :56 - Entering Order Reference78547854On order Reference Field[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:160 INFO  ContactUsPage :62 - Entering Message Hello Therein message Field[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:43 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:96 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (19aeae1ff6ca57742de842d1519216d6)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]
+2021-03-17 17:03:245 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-03-17 17:03:277 INFO  HomePage :36 - Clicking on Contact Us Button[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //header/div[2]/div[1]/div[1]/nav[1]/div[2]/a[1]]
+2021-03-17 17:03:715 INFO  ContactUsPage :43 - Select customer service from drop down menu[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //select[@id='id_contact']]
+2021-03-17 17:03:84 INFO  ContactUsPage :49 - Entering Email Addressdkkattapa@gmail.comOn Email address Field[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //input[@id='email']]
+2021-03-17 17:03:430 INFO  ContactUsPage :56 - Entering Order Reference234509876On order Reference Field[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //input[@id='id_order']]
+2021-03-17 17:03:683 INFO  ContactUsPage :62 - Entering Message Helloin message Field[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //textarea[@id='message']]
+2021-03-17 17:03:872 INFO  ContactUsPage :69 - Clicking on send ButtonProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/fieldset[1]/div[2]/button[1]/span[1]'
+2021-03-17 17:03:927 INFO  ContactUsPage :74 - Getting Text Message[[ChromeDriver: chrome on WINDOWS (47782bb89f43f9eb934e5fb4675d5dd0)] -> xpath: //p[contains(text(),'Your message has been successfully sent to our tea')]]

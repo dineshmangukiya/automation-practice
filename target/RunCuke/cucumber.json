@@ -1,0 +1,322 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8204698500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Verify user should contact automation practice for customer service",
+        "description": "",
+        "id": "contact-us-customer-service-functionality;verify-user-should-contact-automation-practice-for-customer-service;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1075602800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 376630400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on automation practice home page",
+            "match": {
+              "location": "ContactUsTest.iAmOnAutomationPracticeHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1493169000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on contact us link",
+            "match": {
+              "location": "ContactUsTest.iClickOnContactUsLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 605819100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select customer service from drop down menu",
+            "match": {
+              "location": "ContactUsTest.iSelectCustomerServiceFromDropDownMenu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 336875200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter email address in email field \"harrypatel@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "harrypatel@gmail.com",
+                  "offset": 38
+                }
+              ],
+              "location": "ContactUsTest.iEnterEmailAddressInEmailField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 352530900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter order reference number \"78547854\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "78547854",
+                  "offset": 32
+                }
+              ],
+              "location": "ContactUsTest.iEnterOrderReferenceNumber(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 334819600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter message in message field \"Hello There\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hello There",
+                  "offset": 34
+                }
+              ],
+              "location": "ContactUsTest.iEnterMessageInMessageField(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22880073800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on send button",
+            "match": {
+              "location": "ContactUsTest.iClickOnSendButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105721000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should send message successfully",
+            "match": {
+              "location": "ContactUsTest.iShouldSendMessageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8626146100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Verify user should contact automation practice for customer service",
+        "description": "",
+        "id": "contact-us-customer-service-functionality;verify-user-should-contact-automation-practice-for-customer-service;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 887898500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 57400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on automation practice home page",
+            "match": {
+              "location": "ContactUsTest.iAmOnAutomationPracticeHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2402252100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on contact us link",
+            "match": {
+              "location": "ContactUsTest.iClickOnContactUsLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 434974300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select customer service from drop down menu",
+            "match": {
+              "location": "ContactUsTest.iSelectCustomerServiceFromDropDownMenu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 367497100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter email address in email field \"dkkattapa@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dkkattapa@gmail.com",
+                  "offset": 38
+                }
+              ],
+              "location": "ContactUsTest.iEnterEmailAddressInEmailField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 344101200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter order reference number \"234509876\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "234509876",
+                  "offset": 32
+                }
+              ],
+              "location": "ContactUsTest.iEnterOrderReferenceNumber(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 250011100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter message in message field \"Hello\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hello",
+                  "offset": 34
+                }
+              ],
+              "location": "ContactUsTest.iEnterMessageInMessageField(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21185838600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on send button",
+            "match": {
+              "location": "ContactUsTest.iClickOnSendButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101359200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should send message successfully",
+            "match": {
+              "location": "ContactUsTest.iShouldSendMessageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Contact us customer service functionality",
+    "description": "As a user\r\nI want to visit contact us feature\r\nso I can contact automation practice",
+    "id": "contact-us-customer-service-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/automationpractice/resources/featurefiles/contactus.feature"
+  }
+]

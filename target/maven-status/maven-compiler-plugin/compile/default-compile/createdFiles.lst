@@ -1,0 +1,6 @@
+com\automationpractice\browserselector\BrowserSelector.class
+com\automationpractice\basepage\BasePage.class
+com\automationpractice\loadproperty\LoadProperty.class
+com\automationpractice\pages\ContactUsPage.class
+com\automationpractice\pages\HomePage.class
+com\automationpractice\utility\Utility.class
